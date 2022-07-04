@@ -2,9 +2,7 @@
 FY  - Miniproject
 
 Members :
-\nShivom Karnad
-\nAyush Khandare
-\nKedar Kulkarni
+Shivom Karnad, Ayush Khandare, Kedar Kulkarni
 
 Note:
 Download everything in file named 'password manager' for full experience.
